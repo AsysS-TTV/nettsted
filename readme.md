@@ -1,5 +1,3 @@
-md 
-
 # Hei dette er mitt store prosjekt om en nettsiden som tar verden med storm!
 
 ## Her kommer det til å komme mer informasjon etterhvert, men noen primærmål har vi:
