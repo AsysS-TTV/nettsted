@@ -4,7 +4,9 @@
 
 * Bli bedre med å jobbe i terminal
 * Få oppgaven bestått med gode commits
-* Etterhvert få til en nettside som faktisk ser ut som noe brukanes. 
+* Etterhvert få til en nettside som faktisk ser ut som noe brukanes.
+
+** Forhåpentligvis blir dette bra, men vi får se ** 
 
 > Mvh
 > Truls Engebret Solberg
