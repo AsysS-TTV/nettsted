@@ -6,7 +6,6 @@
 * Få oppgaven bestått med gode commits
 * Etterhvert få til en nettside som faktisk ser ut som noe brukanes. 
 
-> Mvh;
-> Truls Engebret Solberg;
-> IT og ledelse, nybegynner;
-
+> Mvh
+> Truls Engebret Solberg
+> IT og ledelse, nybegynner
