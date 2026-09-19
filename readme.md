@@ -17,5 +17,5 @@
 **Forhåpentligvis blir dette bra, men vi får se** 
 
 > Mvh
-> Truls Engebret Solberg
+> Truls Engebret Solberg,
 > IT og ledelse, nybegynner
