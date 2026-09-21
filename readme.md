@@ -6,7 +6,7 @@
 * Få oppgaven bestått med gode commits
 * Etterhvert få til en nettside som faktisk ser ut som noe brukanes.
 
-## Viktige informasjon:
+## Viktig informasjon:
 
 * Node.js og pnpm må være installert
 * Denne nettsiden er bygget med vite
